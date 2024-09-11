@@ -12,7 +12,6 @@ process. With a user-friendly interface and relevant results, users can expand t
 **CSS** and **Bootstrap**, ensuring a visually appealing experience on over **10** different device types.<br/>
 • Effortless Information Retrievals: Enabled quick access to over **500** articles similar to Wikipedia using asynchronous
 fetch **GET** **HTTP** **API** **calls**, allowing users to explore queries and open results in new tabs for seamless navigation.<br/>
-**Website Link** <br/>
+**Visit the Website Link** <br/>
 (https://vaiwiki.ccbp.tech/)<br/>
-**Preview**<br/>
 
