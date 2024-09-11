@@ -15,7 +15,6 @@ fetch **GET** **HTTP** **API** **calls**, allowing users to explore queries and 
 **Visit the Website Link** <br/>
 (https://vaiwiki.ccbp.tech/)<br/>
 **Preview**<br/>
-![Screenshot (1328)](https://github.com/user-attachments/assets/a0e81b58-2677-45db-98e1-47143a7eec47)<br/>
-![Screenshot (1329)](https://github.com/user-attachments/assets/2340c73b-f94d-489a-af5d-d9bb486cb0c6)<br/>
-![Screenshot (1330)](https://github.com/user-attachments/assets/59448f3e-926c-46c6-afa4-f1f7a78714b0)<br/>
-![Screenshot (1331)](https://github.com/user-attachments/assets/484cea1b-3a16-4826-a405-9019d85f3720)<br/>
+![image](https://github.com/user-attachments/assets/02d2a57f-686f-4152-b293-dddddf7a79d7)<br/>
+![image](https://github.com/user-attachments/assets/70ec3120-a11e-4b14-8334-12d6781198ec)<br/>
+![image](https://github.com/user-attachments/assets/4d11b5d3-8325-4125-97f2-daead5afff50)<br/>
